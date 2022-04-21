@@ -13,8 +13,10 @@ This is our mini project for the SC1015 Introduction to Data Science and Artific
 * Which classification model is the best at predicting whether a person has heart disease?
 
 ## Data Preparation
+We decided to use the Cleveland dataset as it has the least missing values. We replaced null values with the mode as the missing values were categorical variables. We performed mapping on multiple variables so that we could classify them.
 
 ## Exploratory Data Analysis
+
 
 ## Machine Learning
 We utilised the following classification models:
@@ -22,12 +24,25 @@ We utilised the following classification models:
 2. XGBoost
 3. Logistic Regression
 
-## Conclusion
+## Conclusion and Data Driven Insights
+* We found that it is indeed possible to predict if an individual has heart disease.
+* Logistic Regression was the best model to use in our case as it had the highest accuracy and f1 score.
+* Surprisingly, we found that XGBoost did not give us the best results. We felt that this might be due to the characteristics of our dataset.
+* Angiographic heart disease does not always cause chest pain as seen from how most of the patients were asymptomatic.
+* An abnormal ECG does not immediately mean angiographic heart disease is present as seen by how there are many data points with ECG irregularities but are under DIS = 0. Abnormal heart behaviour can sometimes be explained by other conditions such as anaemia or lung diseases since they would also decrease oxygen flow to the heart. 
 
-## Learning Something New and Areas for Improvement
-Through this project, we learnt the following:
-* How to clean and prepare datasets, especially those with many categorical variables
-* 
+## Learning Something New
+Through this project, we learnt how to:
+* How to clean and prepare datasets, especially those with many categorical variables and few numerical variables
+* Logistic Regression from sklearn for classification
+* XGBoost from xgboost for classification
+* Extracting information from trends and visuals statistics
+* Creating a repository and collaborating on Github
+* Differences between F1 and accuracy as evaluation metrics
+
+## Applications of our Findings
+* An application can be created using the best model we have identified. This application can be used to predict the likelihood of heart disease. Doctors can then warn patients and can enable early treatment.
+* The impact on the likelihood of heart disease can be included. This helps doctors to raise awareness and showcase to others that there is a higher likelihood of disease if current lifestyle factors are unhealthy.
 
 ## Contributors
 * See Yin - Data Preparation and Cleaning, Machine Learning (XGBoost), Presentation Slides and Script
