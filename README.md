@@ -16,7 +16,7 @@ This is our mini project for the SC1015 Introduction to Data Science and Artific
 We decided to use the Cleveland dataset as it has the least missing values. We replaced null values with the mode as the missing values were categorical variables. We performed mapping on multiple variables so that we could classify them.
 
 ## Exploratory Data Analysis
-
+include something here!!
 
 ## Machine Learning
 We utilised the following classification models:
