@@ -50,10 +50,13 @@ Through this project, we learnt how to:
 * Kakuly - Exploratory Data Analysis, Machine Learning (Decision Trees), Presentation Slides and Script
 
 ## References
-* http://scikit-learn.org/stable/modules/tree.html#:~:text=Decision%20Trees%20(DTs)%20are%20a,as%20a%20piecewise%20constant%20approximation.
-* https://www.sciencedirect.com/topics/computer-science/logistic-regression#:~:text=Logistic%20regression%20is%20a%20process,%2Fno%2C%20and%20so%20on.
-* https://machinelearningmastery.com/xgboost-for-regression/
-* https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries. 
-* https://towardsdatascience.com/the-f1-score-bec2bbc38aa6
-* https://www.datacamp.com/community/tutorials/xgboost-in-python
-* https://towardsdatascience.com/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390
+* 1.10. decision trees. scikit. (n.d.). Retrieved April 22, 2022, from http://scikit-learn.org/stable/modules/tree.html#:~:text=Decision%20Trees%20(DTs)%20are%20a,as%20a%20piecewise%20constant%20approximation 
+* Logistic regression. Logistic Regression - an overview | ScienceDirect Topics. (n.d.). Retrieved April 22, 2022, from https://www.sciencedirect.com/topics/computer-science/logistic-regression#:~:text=Logistic%20regression%20is%20a%20process,%2Fno%2C%20and%20so%20on 
+* Brownlee, J. (2021, March 6). XGBoost for regression. Machine Learning Mastery. Retrieved April 22, 2022, from https://machinelearningmastery.com/xgboost-for-regression/ 
+* UCI Machine Learning Repository: Heart disease data set. (n.d.). Retrieved April 22, 2022, from https://archive.ics.uci.edu/ml/datasets/heart+disease (cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries. 
+* World Health Organization. (n.d.). Cardiovascular diseases (cvds). World Health Organization. Retrieved April 22, 2022, from https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries 
+* Korstanje, J. (2021, August 31). The F1 score. Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/the-f1-score-bec2bbc38aa6 
+* Lanza, G. A., Mustilli, M., Sestito, A., Infusino, F., Sgueglia, G. A., & Crea, F. (2004, December). Diagnostic and prognostic value of St Segment Depression Limited to the recovery phase of exercise stress test. Heart (British Cardiac Society). Retrieved April 22, 2022, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1768611/
+* Mavrogeni'], ['S. (n.d.). Cardiac aspects of ß-thalassemia. European Society of Cardiology. Retrieved April 22, 2022, from https://www.escardio.org/Journals/E-Journal-of-Cardiology-Practice/Volume-5/Cardiac-aspects-of-Thalassemia-Title-Cardiac-aspects-of-Thalassemia#:~:text=Heart%20failure%20and%20arrhythmias%20are,of%20symptoms%20and%20echocardiographic%20abnormalities
+
+
