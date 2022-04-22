@@ -13,7 +13,7 @@ This is our mini project for the SC1015 Introduction to Data Science and Artific
 * Which classification model is the best at predicting whether a person has heart disease?
 
 ## Data Preparation
-We decided to use the Cleveland dataset as it has the least missing values. We replaced null values with the mode as the missing values were categorical variables. We performed mapping on multiple variables so that we could classify them.
+We decided to use the Cleveland dataset as it has the least missing values. We chose this data set because it allows us to solve the problem of predicting the presence of cardiac disease through supervised learning. This enables us to develop better models whose accuracy can be quantified. We replaced null values with the mode as the missing values were categorical variables. We performed mapping on multiple variables so that we could classify them.
 
 ## Exploratory Data Analysis
 We created a series of heatmaps, barplots, histograms, violinplots, catplots to explore the relationships between two or more variables. We noticed that some relationships were out of the ordinary and thus explained our analysis in the notebook.
