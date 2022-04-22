@@ -26,8 +26,8 @@ We utilised the following classification models:
 
 ## Conclusion and Data Driven Insights
 * We found that it is indeed possible to predict if an individual has heart disease.
-* Logistic Regression was the best model to use in our case as it had the highest accuracy and f1 score.
-* Surprisingly, we found that XGBoost did not give us the best results. We felt that this might be due to the characteristics of our dataset.
+* XGBoost was the best model to use in our case as it had the highest accuracy and F1 score.
+* Surprisingly, we found that GridSearch might not increase the accuracy and F1 score. The usefulness of GridSearch is based on the parameters that we fit it with.
 * Angiographic heart disease does not always cause chest pain as seen from how most of the patients were asymptomatic.
 * An abnormal ECG does not immediately mean angiographic heart disease is present as seen by how there are many data points with ECG irregularities but are under DIS = 0. Abnormal heart behaviour can sometimes be explained by other conditions such as anaemia or lung diseases since they would also decrease oxygen flow to the heart. 
 
