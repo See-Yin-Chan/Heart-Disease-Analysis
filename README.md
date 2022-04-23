@@ -5,7 +5,7 @@ This is our mini project for the SC1015 Introduction to Data Science and Artific
 
 ## Table of Contents
 1. [Data Cleaning](https://github.com/See-Yin-Chan/Heart-Disease-Analysis/blob/6adb701a70ae569cb35d5c7125d16ce687da4565/Data%20Cleaning.ipynb)
-2. [Data Visualisation and Analysis](https://github.com/See-Yin-Chan/Heart-Disease-Analysis/blob/6adb701a70ae569cb35d5c7125d16ce687da4565/Data%20Visualisation%20and%20Analysis.ipynb)
+2. [Data Visualisation and Analysis](https://github.com/See-Yin-Chan/Heart-Disease-Analysis/blob/af1123c441db1c52887d85f2ba6d35b4af52a6fc/Data%20Visualisaiton%20and%20Analysis%20.ipynb)
 3. [Classification Models](https://github.com/See-Yin-Chan/Heart-Disease-Analysis/blob/6adb701a70ae569cb35d5c7125d16ce687da4565/Classification%20Models.ipynb)
 
 ## Problem Definition
